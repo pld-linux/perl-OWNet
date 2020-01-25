@@ -3,7 +3,6 @@
 %bcond_without	tests		# do not perform "make test"
 
 %define	pdir	OWNet
-%include	/usr/lib/rpm/macros.perl
 Summary:	OWNet Light weight access to owserver
 Name:		perl-OWNet
 Version:	1.8
